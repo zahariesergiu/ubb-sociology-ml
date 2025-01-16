@@ -1,0 +1,18 @@
+# Ignore virtual environment
+ml_env/
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore IDE-specific files
+.vscode/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore pytest cache
+.pytest_cache/
+
