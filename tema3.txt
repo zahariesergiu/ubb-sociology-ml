@@ -1,0 +1,31 @@
+info tema3
+
+
+
+random forest - adunatura de decision trees - 
+
+bootstrapped sample de date - un numar poate fi extras de mai multe ori 
+
+un tree pe acest random set de date
+
+nu folosim toate feateurile
+
+random sample, random feateurile
+reduce overfit
+
+bootstrapping and aggregating to make a decision --- bagging - 
+
+out of bag data  -- 
+\
+
+random forest - mai multe trees
+pentru fiecare se ia random bootsrtap 
+
+split gini impurity , entropy 
+
+aggregates the result of trees voting mechanism
+
+bagging> bootsrtap + aggregate
+
+K fold cross validation 
+5 iteratii -- 
