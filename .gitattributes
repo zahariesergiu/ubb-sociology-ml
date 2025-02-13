@@ -1,0 +1,2 @@
+lecture5/notebooks/members2.csv filter=lfs diff=lfs merge=lfs -text
+lecture5/data/members.csv filter=lfs diff=lfs merge=lfs -text
