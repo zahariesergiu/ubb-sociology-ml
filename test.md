@@ -1,2 +1,2 @@
 Acesta este un test
-git add
+print "Hello, world"
