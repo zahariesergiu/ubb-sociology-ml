@@ -128,5 +128,5 @@ Modelele NN oferă un mic câștig față de regresia clasică, dar fără îmbu
 
 ## Concluzie generală
 
-Datasetul Census prezintă relații socio-economice complexe și zgomotoase.  
+Datasetul Census prezintă relații socio-economice complexe.  
 Modelele obțin performanțe moderate, iar diferențele dintre abordările clasice și cele neurale sunt limitate. Clusteringul confirmă existența unor grupuri coerente, dar cu separare parțială.
