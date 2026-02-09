@@ -1,0 +1,5 @@
+Method,Silhouette_Score,Largest_Cluster_%,Smallest_Cluster_%,Balance
+K-Means (K=2),0.2016,54.4,45.6,Excellent
+K-Means (K=5),0.1406,31.4,12.0,Poor
+Hierarchical,0.147,75.1,24.9,Severe Imbalance
+DBSCAN,-0.0422,N/A,N/A,Fragmented
